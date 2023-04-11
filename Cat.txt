@@ -4,4 +4,9 @@ public class Cat{
   public Cat(String name){
     this.name = name;
   }
+
+  public string getName(){
+    return name;
+  }
+	
 }
